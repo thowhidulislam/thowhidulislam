@@ -2,9 +2,10 @@
 
 ## 👨‍💻 About Me
 
-I'm a frontend developer with a strong focus on modern JavaScript frameworks like **React**, **Next.js**, and **Vue.js**. I bring real-world experience from working with teams at **Bytebridge IT Solutions LLC**, **RBS TECH LIMITED**, and others.
+I'm a Software Engineer with over 5 years of experience, focused on building scalable and performant frontend applications. My core expertise lies in **React.js**, **Next.js**, and **React Native**, where I've contributed to both web and mobile projects with strong UI/UX principles.
 
-I enjoy building clean, scalable interfaces and always aim for pixel-perfect, high-performance UI. Whether it's a mobile app with **React Native** or a server-rendered app with **Next.js**, I’m all about creating smooth, intuitive user experiences.
+I have hands-on experience with **Vue.js**, **Redux**, and **TypeScript**, and I'm comfortable working across diverse codebases. I use **Git** for version control and follow modern development workflows to ensure clean, maintainable code.
 
-Currently expanding my skills in **TypeScript** and exploring deeper architecture patterns in modern frontend development.
+Adaptable and growth-driven, I thrive in collaborative environments and am always exploring new technologies. I'm currently open to opportunities where I can bring value as a frontend developer and continue to evolve professionally.
+
 
