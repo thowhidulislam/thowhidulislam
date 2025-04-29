@@ -29,7 +29,7 @@ Adaptable and growth-driven, I thrive in collaborative environments and constant
 </p>
 
 <!-- WakaTime Stats -->
-[![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=your-wakatime-username)](https://github.com/anuraghazra/github-readme-stats)
+[![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=thowhid52)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
