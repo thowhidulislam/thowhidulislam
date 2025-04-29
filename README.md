@@ -25,7 +25,7 @@ Adaptable and growth-driven, I thrive in collaborative environments and constant
   <a href="https://www.linkedin.com/in/thowhidulislam/"><img src="https://img.icons8.com/?size=100&id=13930&format=png&color=000000" width="40" alt="LinkedIn"/></a>
   <a href="https://www.facebook.com/thowhid.ndc14"><img src="https://img.icons8.com/?size=100&id=uLWV5A9vXIPu&format=png&color=000000" width="40" alt="Facebook"/></a>
   <a href="https://x.com/islam_thowhidul"><img src="https://img.icons8.com/?size=100&id=phOKFKYpe00C&format=png&color=000000" width="37" alt="Twitter"/></a>
-  <a href="https://stackexchange.com/users/41691128/md-thowhidul-islam-molla"><img src="https://img.icons8.com/?size=100&id=xpLsvIw1xpqQ&format=png&color=000000" width="32" alt="Stack Overflow"/></a>
+  <a href="https://stackexchange.com/users/41691128/md-thowhidul-islam-molla"><img src="https://img.icons8.com/?size=100&id=xpLsvIw1xpqQ&format=png&color=000000" width="33" alt="Stack Overflow"/></a>
 </p>
 
 
