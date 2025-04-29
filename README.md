@@ -32,3 +32,10 @@ Adaptable and growth-driven, I thrive in collaborative environments and constant
   <a href="https://instagram.com/your-profile"><img src="https://img.icons8.com/ios-filled/50/instagram-new--v1.png" width="30" alt="Instagram"/></a>
 </p>
 
+[![CodePen](https://img.icons8.com/ios-filled/50/codepen.png)](https://codepen.io/your-profile)
+[![Twitter](https://img.icons8.com/ios-filled/50/twitterx.png)](https://twitter.com/your-profile)
+[![LinkedIn](https://img.icons8.com/ios-filled/50/linkedin.png)](https://linkedin.com/in/your-profile)
+[![Stack Overflow](https://img.icons8.com/ios-filled/50/stackoverflow.png)](https://stackoverflow.com/users/your-id)
+[![Facebook](https://img.icons8.com/ios-filled/50/facebook-new.png)](https://facebook.com/your-profile)
+[![Instagram](https://img.icons8.com/ios-filled/50/instagram-new--v1.png)](https://instagram.com/your-profile)
+
