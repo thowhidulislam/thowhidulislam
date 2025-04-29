@@ -28,8 +28,9 @@ Adaptable and growth-driven, I thrive in collaborative environments and constant
   <a href="https://stackexchange.com/users/41691128/md-thowhidul-islam-molla"><img src="https://img.icons8.com/?size=100&id=xpLsvIw1xpqQ&format=png&color=000000" width="35" alt="Stack Overflow"/></a>
 </p>
 
-![Visitor Count](https://count.getloli.com/@:thowhidulislam?name=%3Athowhidulislam&theme=love-and-deepspace&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto)
-![Profile views](https://visitor-badge.laobi.icu/badge?page_id=thowhidul-islam)
+<!-- WakaTime Stats -->
+[![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=your-wakatime-username)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 
