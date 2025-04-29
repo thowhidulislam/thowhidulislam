@@ -8,4 +8,14 @@ I have hands-on experience with **Vue.js**, **Redux**, and **TypeScript**, and I
 
 Adaptable and growth-driven, I thrive in collaborative environments and am always exploring new technologies. I'm currently open to opportunities where I can bring value as a frontend developer and continue to evolve professionally.
 
+## 🚀 Tech Stack & Tools
+
+- **JavaScript** – Strong understanding of ES6+ and asynchronous programming
+- **React.js** – Developed multiple production-grade applications
+- **Next.js** – Built SSR apps with optimized performance
+- **Vue.js** – Delivered SPA experiences for diverse business needs
+- **React Native** – Worked on cross-platform mobile solutions
+- **TypeScript** – Used in React/Vue projects for type safety
+- **Redux.js** – Managed complex app states with efficiency
+- **Git** – Version control with collaborative workflows
 
