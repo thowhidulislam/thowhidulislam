@@ -21,9 +21,14 @@ Adaptable and growth-driven, I thrive in collaborative environments and constant
 
 ## 🌐 Connect with me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)  
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-profile)  
-[![Stack Overflow](https://img.shields.io/badge/StackOverflow-%23FE7A16.svg?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/your-id)  
-[![CodePen](https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/your-profile)  
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/your-profile)  
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/your-profile)
+<h2 align="center">🌐 Connect with me</h2>
+
+<p align="center">
+  <a href="https://codepen.io/your-profile"><img src="https://img.icons8.com/ios-filled/50/codepen.png" width="30" alt="CodePen"/></a>
+  <a href="https://twitter.com/your-profile"><img src="https://img.icons8.com/ios-filled/50/twitterx.png" width="30" alt="Twitter"/></a>
+  <a href="https://linkedin.com/in/your-profile"><img src="https://img.icons8.com/ios-filled/50/linkedin.png" width="30" alt="LinkedIn"/></a>
+  <a href="https://stackoverflow.com/users/your-id"><img src="https://img.icons8.com/ios-filled/50/stackoverflow.png" width="30" alt="Stack Overflow"/></a>
+  <a href="https://facebook.com/your-profile"><img src="https://img.icons8.com/ios-filled/50/facebook-new.png" width="30" alt="Facebook"/></a>
+  <a href="https://instagram.com/your-profile"><img src="https://img.icons8.com/ios-filled/50/instagram-new--v1.png" width="30" alt="Instagram"/></a>
+</p>
+
