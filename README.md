@@ -28,4 +28,8 @@ Adaptable and growth-driven, I thrive in collaborative environments and constant
   <a href="https://stackexchange.com/users/41691128/md-thowhidul-islam-molla"><img src="https://img.icons8.com/?size=100&id=xpLsvIw1xpqQ&format=png&color=000000" width="35" alt="Stack Overflow"/></a>
 </p>
 
+![Visitor Count](https://count.getloli.com/get/@your-username?theme=gelbooru-h)
+![Profile views](https://visitor-badge.laobi.icu/badge?page_id=thowhidul-islam)
+
+
 
