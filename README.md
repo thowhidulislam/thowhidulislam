@@ -1,4 +1,4 @@
-# Hi there, I'm **Md Thowhidul Islam Molla** ![Waving Hand](https://user-images.githubusercontent.com/26017543/213809353-c908d93c-3dff-4694-9d13-e0e5cbdb879c.png)
+# Hi there, I'm **Md Thowhidul Islam Molla** <img src="https://user-images.githubusercontent.com/26017543/213809353-c908d93c-3dff-4694-9d13-e0e5cbdb879c.png" width="30" alt="Waving Hand" />
 
 ## 👨‍💻 About Me
 
