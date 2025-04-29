@@ -26,9 +26,9 @@ Adaptable and growth-driven, I thrive in collaborative environments and constant
 <p align="center">
   <a href="https://codepen.io/your-profile"><img src="https://img.icons8.com/ios-filled/50/codepen.png" width="30" alt="CodePen"/></a>
   <a href="https://twitter.com/your-profile"><img src="https://img.icons8.com/ios-filled/50/twitterx.png" width="30" alt="Twitter"/></a>
-  <a href="https://linkedin.com/in/your-profile"><img src="https://img.icons8.com/?size=100&id=13930&format=png&color=000000" width="30" alt="LinkedIn"/></a>
+  <a href="https://linkedin.com/in/your-profile"><img src="https://img.icons8.com/?size=100&id=13930&format=png&color=000000" width="40" alt="LinkedIn"/></a>
   <a href="https://stackoverflow.com/users/your-id"><img src="https://img.icons8.com/ios-filled/50/stackoverflow.png" width="30" alt="Stack Overflow"/></a>
-  <a href="https://facebook.com/your-profile"><img src="https://img.icons8.com/ios-filled/50/facebook-new.png" width="30" alt="Facebook"/></a>
+  <a href="https://facebook.com/your-profile"><img src="https://img.icons8.com/?size=100&id=aP2AQnuFNo85&format=png&color=000000" width="40" alt="Facebook"/></a>
   <a href="https://instagram.com/your-profile"><img src="https://img.icons8.com/ios-filled/50/instagram-new--v1.png" width="30" alt="Instagram"/></a>
 </p>
 
